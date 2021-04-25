@@ -1,0 +1,15 @@
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\practicaDI_1.exe.config
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\practicaDI_1.exe
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\practicaDI_1.pdb
+D:\MIDDLE\PRACTICAS\practicaDI_1\obj\Debug\practicaDI_1.csproj.CoreCompileInputs.cache
+D:\MIDDLE\PRACTICAS\practicaDI_1\obj\Debug\practicaDI_1.exe
+D:\MIDDLE\PRACTICAS\practicaDI_1\obj\Debug\practicaDI_1.pdb
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\xunit.abstractions.dll
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\xunit.assert.dll
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\xunit.core.dll
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\xunit.execution.desktop.dll
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\xunit.abstractions.xml
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\xunit.assert.xml
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\xunit.core.xml
+D:\MIDDLE\PRACTICAS\practicaDI_1\bin\Debug\xunit.execution.desktop.xml
+D:\MIDDLE\PRACTICAS\practicaDI_1\obj\Debug\practicaDI_1.csproj.CopyComplete
